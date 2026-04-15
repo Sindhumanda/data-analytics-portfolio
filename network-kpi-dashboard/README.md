@@ -1,0 +1,1 @@
+Telecom companies need to monitor network performance to ensure high service quality. This project analyzes network KPIs such as latency, throughput, and packet loss to identify performance issues and improve network reliability.
